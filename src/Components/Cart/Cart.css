@@ -1,0 +1,15 @@
+.cart-container{
+    background-color: #31394D;
+    padding: 10px;
+    border-radius: 6px;
+    color: white;
+}
+.cart-container h4{
+    margin-bottom: 0;
+}
+.cart-container p{
+    font-size: 14px;
+}
+.cart-pro-names{
+    list-style-type: none;
+}
